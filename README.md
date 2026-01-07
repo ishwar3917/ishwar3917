@@ -1,20 +1,67 @@
-# 💫 About Me:
-🔭**I’m currently working on**<br><br>Machine Learning and data analysis projects using Python, Pandas, NumPy, and Scikit-learn<br><br>End-to-end pipelines: data cleaning → EDA → model building → evaluation<br><br>Practical AI concepts like RAG agents and API-driven applications <br><br>👯 **I’m looking to collaborate on**<br><br>Beginner to intermediate ML projects<br><br>Data analysis dashboards and real-world datasets<br><br>Open-source tools related to AI, automation, or Python utilities<br><br>🤝 **I’m looking for help with**<br><br>Writing cleaner, production-quality ML code<br><br>Model optimization and real-world deployment<br><br>Bridging the gap between academic ML and industry-level AI systems<br><br>🌱 **I’m currently learning**<br><br>Advanced Machine Learning concepts<br><br>Retrieval-Augmented Generation (RAG) systems<br><br>Better software engineering practices for AI projects <br><br>💬 **Ask me about**<br><br>Python, Pandas, NumPy, Scikit-learn<br><br>Data analysis, EDA, and feature engineering<br><br>ML projects like prediction models, scrapers, and API-based apps<br><br>⚡ **Fun fact**<br><br>I enjoy turning boring datasets into meaningful insights almost as much as I enjoy breaking my own models to understand them better.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Ishwar+Soni;Aspiring+AI%2FML+Engineer;Python+Developer;Data+Problem+Solver" alt="Typing SVG" />
+</h1>
 
-📌 **Featured Projects**:
-- Student Placement Predictor – Logistic regression model with 88% accuracy
-- E-Commerce Sales Analysis – Business insights from multi-table datasets
-- Web Scrapers & API-based tools in Python
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishwar-soni-cs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishwarsoni2917@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishwar3917&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ishwar3917&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishwar3917&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishwar3917&label=Profile%20Views&color=0e75b6&style=flat" alt="ishwar3917" />
+</p>
 
 ---
+
+### 💫 About Me
+
+- 🎓 I am a **CS Student** learning **Python, ML basics, and Real-world Problem Solving**.
+- 🔭 I’m currently working on **End-to-end ML pipelines** (Data Cleaning → EDA → Model → Eval).
+- 🌱 I’m deeply interested in **RAG Agents** and **API-driven AI applications**.
+- 👯 I’m looking to collaborate on **Data Analysis Dashboards** and **Open Source AI tools**.
+- ⚡ **Fun fact:** I enjoy turning boring datasets into meaningful insights almost as much as I enjoy breaking my own models to understand them better.
+
+---
+
+### 💻 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **📈 Student Placement Predictor** | A Logistic Regression model predicting placement chances with **88% accuracy**. | `Sklearn` `Python` |
+| **🦴 Mocap Data Pipeline** | Automating cleanup & stabilization of raw BVH motion data for 3D models. | `Python` `Data Proc` |
+| **🛒 E-Commerce Sales Analysis** | Business insights derived from complex multi-table datasets. | `Pandas` `EDA` |
+| **🌤️ Python Weather App** | Fetches live weather data handling API errors gracefully. | `API` `JSON` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishwar3917&show_icons=true&theme=tokyonight" alt="ishwar3917" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwar3917&layout=compact&theme=tokyonight" alt="ishwar3917" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwar3917&theme=tokyonight" alt="ishwar3917" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ishwar-soni-cs/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:ishwarsoni2917@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
