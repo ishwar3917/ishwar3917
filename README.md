@@ -12,7 +12,7 @@
 
 - 🎓 I am a **CS Student** learning **Python, ML basics, and Real-world Problem Solving**.
 - 🔭 I’m currently working on **End-to-end ML pipelines** (Data Cleaning → EDA → Model → Eval).
-- 🌱 I’m deeply interested in **RAG Agents** and **API-driven AI applications**.
+- 🦴 I have experience processing **Motion Capture Data (BVH)** for 3D applications.
 - 👯 I’m looking to collaborate on **Data Analysis Dashboards** and **Open Source AI tools**.
 - ⚡ **Fun fact:** I enjoy turning boring datasets into meaningful insights almost as much as I enjoy breaking my own models to understand them better.
 
@@ -43,14 +43,6 @@
 | **🦴 Mocap Data Pipeline** | Automating cleanup & stabilization of raw BVH motion data for 3D models. | `Python` `Data Proc` |
 | **🛒 E-Commerce Sales Analysis** | Business insights derived from complex multi-table datasets. | `Pandas` `EDA` |
 | **🌤️ Python Weather App** | Fetches live weather data handling API errors gracefully. | `API` `JSON` |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwar3917&theme=tokyonight" alt="ishwar3917" />
-</p>
 
 ---
 
