@@ -49,12 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishwar3917&show_icons=true&theme=tokyonight" alt="ishwar3917" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwar3917&layout=compact&theme=tokyonight" alt="ishwar3917" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwar3917&theme=tokyonight" alt="ishwar3917" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwar3917&theme=tokyonight&hide_border=true" alt="ishwar3917" />
 </p>
 
 ---
