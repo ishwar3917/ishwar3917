@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwar3917&theme=tokyonight&hide_border=true" alt="ishwar3917" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishwar3917&theme=tokyonight" alt="ishwar3917" />
 </p>
 
 ---
