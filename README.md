@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Ishwar+Soni;Aspiring+AI%2FML+Engineer;Python+Developer;Data+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Ishwar;Machine+Learning+Intern;Applied+ML+%26+Data+Pipelines;Building+Real-World+Systems" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,13 +8,40 @@
 
 ---
 
-### 💫 About Me
+### 👨‍💻 About Me
 
-- 🎓 I am a **CS Student** learning **Python, ML basics, and Real-world Problem Solving**.
-- 🔭 I’m currently working on **End-to-end ML pipelines** (Data Cleaning → EDA → Model → Eval).
-- 🦴 I have experience processing **Motion Capture Data (BVH)** for 3D applications.
-- 👯 I’m looking to collaborate on **Data Analysis Dashboards** and **Open Source AI tools**.
-- ⚡ **Fun fact:** I enjoy turning boring datasets into meaningful insights almost as much as I enjoy breaking my own models to understand them better.
+- 🎓 **Computer Science Student** with hands-on experience in **Applied Machine Learning** and **Data Pipelines**.
+- 🔭 Currently working on **End-to-End ML Systems** (Data Cleaning → Modeling → Evaluation → Inference).
+- 🦴 Experience processing large-scale **Motion Capture Data (BVH)** for 3D applications.
+- 🛠 Interested in building **Production-Ready ML Pipelines**, model evaluation, and real-world debugging.
+
+---
+
+### 🔧 What I Actually Build
+
+I focus on engineering robust solutions rather than just training models in notebooks:
+* **End-to-End Pipelines:** Automating the flow from raw data ingestion to model inference.
+* **Data Integrity:** Implementing preprocessing systems that prevent data leakage.
+* **Real-World Constraints:** optimizing for inference speed and stability, not just training accuracy.
+* **Mocap Processing:** specialized cleanup and stabilization for 3D animation data.
+
+### 📊 How I Evaluate Models
+
+I prioritize **business metrics** and **reliability** over vanity metrics:
+* Focus on **MAE/RMSE** for regression and **Precision/Recall** for imbalanced classification.
+* Prioritize stable inference behavior over fragile leaderboard scores.
+* Validate models on out-of-time or real-world data splits.
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🏠 Bengaluru House Price Predictor** | End-to-end regression system using XGBoost, served via FastAPI for real-time inference. | `Python` `XGBoost` `FastAPI` |
+| **🦴 Mocap Data Pipeline** | Automated preprocessing and stabilization of raw BVH motion data for 3D models. | `Python` `Data Processing` |
+| **⚙️ ML Preprocessing Pipelines** | Modular Scikit-learn pipelines preventing data leakage and ensuring consistent behavior. | `Scikit-learn` `Pipelines` |
+| **🕸️ Company Data Scraper** | Scalable web scraping pipeline extracting structured data from 10,000+ company profiles. | `Python` `Pandas` |
 
 ---
 
@@ -26,23 +53,11 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <br>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **📈 Student Placement Predictor** | A Logistic Regression model predicting placement chances with **88% accuracy**. | `Sklearn` `Python` |
-| **🦴 Mocap Data Pipeline** | Automating cleanup & stabilization of raw BVH motion data for 3D models. | `Python` `Data Proc` |
-| **🛒 E-Commerce Sales Analysis** | Business insights derived from complex multi-table datasets. | `Pandas` `EDA` |
-| **🌤️ Python Weather App** | Fetches live weather data handling API errors gracefully. | `API` `JSON` |
 
 ---
 
